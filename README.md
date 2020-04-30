@@ -1,6 +1,8 @@
-# Simulates two methods for covid group tests
+# Simulates two methods for COVID-19 Group tests
 
-For english speakers, please check the papers. They are quite intuitive. For portuguese speakers the notebook is in Portuguese.
+For english speakers, please check the papers. They are quite intuitive. For portuguese speakers the notebook is in Portuguese. The methods are the Partition scheme defined by Eberhardt, Jens Niklas et al. and the Matrix Scheme by Sinnott-Armstrong, Nasa et al.
+
+Also, we assume that testing 32 samples in a group is feasible. This was reported by (Yelin, Idan, et al.).
 
 ## Main References
 
