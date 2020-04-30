@@ -6,8 +6,9 @@ Also, we assume that testing 32 samples in a group is feasible. This was reporte
 
 ## Main References
 
-1. Eberhardt, Jens Niklas, Nikolas Peter Breuckmann, and Christiane Sigrid Eberhardt. "Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening." Journal of Clinical Virology (2020): 104382. Online: https://www.sciencedirect.com/science/article/pii/S1386653220301244
-1. Sinnott-Armstrong, Nasa, Daniel Klein, and Brendan Hickey. "Evaluation of Group Testing for SARS-CoV-2 RNA." medRxiv (2020). Online: https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1 
+1. Eberhardt, Jens Niklas., Breuckmann, Nikolas Peter., and Eberhardt, Christiane Sigrid. "Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening." Journal of Clinical Virology (2020): 104382. Online: https://www.sciencedirect.com/science/article/pii/S1386653220301244 
+1. Sinnott-Armstrong, Nasa., and Klein, Daniel L., and Hickey, Brendam. "Evaluation of Group Testing for SARS-CoV-2 RNA." medRxiv (2020). Online: https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1 
+1. Yelin, Idan, et al. "Evaluation of COVID-19 RT-qPCR test in multi-sample pools." medRxiv (2020). Online: https://www.medrxiv.org/content/10.1101/2020.03.26.20039438v1 
 
 ## All References Considered
 
